@@ -1,3 +1,4 @@
+# Thanks to https://www.youtube.com/@TechWithTim for his tutorial videos.
 print("Welcome to Zach's Quiz")
 
 playing = input("Do you want to play a game? ")
