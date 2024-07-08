@@ -1,3 +1,4 @@
+# Thanks to https://www.youtube.com/@TechWithTim for his tutorial videos.
 import random
 
 top_range = input("Please type a number: ")
